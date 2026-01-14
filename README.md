@@ -149,7 +149,3 @@ Níveis de log configuráveis no `appsettings.json`:
 - Nunca commite o arquivo `appsettings.Development.json`
 - Use senhas de aplicativo ao invés de senhas reais
 - O `.gitignore` já está configurado para ignorar arquivos sensíveis
-
-## Licença
-
-Este projeto é privado e de uso interno.
